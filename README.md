@@ -25,17 +25,22 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/52936afe-3c54-442f-b65d-194886c32bf9)
+
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu 1 for Social Engineering Attacks.
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/e6a95c60-0b61-431d-a728-c19842938990)
 
 The website Attack Vectors displays the following menu. In this menu, 3 for Credential Harvester Attack Method is selected:
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/4daa1895-27ee-47e4-b6a6-3d69dda35d5b)
+
 The Credential Harvester Attack Method displays the following menu. In this menu, 1 for Web Templates is selected:
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/aa9e2bd3-a454-4c13-b204-9a0cab488b26)
+
 
 The Credential Harvester Attack Method displays the following menu. In this menu, 1 for Web Templates is selected.
 It shows the following screen in which the IP address of the attacker needs to be given (default value):
@@ -44,6 +49,7 @@ It shows the following screen in which the IP address of the attacker needs to b
 ![image](https://github.com/user-attachments/assets/cc23fcc6-d300-4a50-b65a-f845eefa0142)
 
 It shows the following screen in which the option Google can be selected:
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/2133dead-0ed0-4b53-8357-7ddefa923879)
 
